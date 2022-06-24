@@ -1,0 +1,15 @@
+1. How to decide size of Vcore?
+2. Do we generate a log file for each application in on premise deployment?
+3. Do we generate clientid/secret for every developer for deployment into cloudhub??
+4. How to create Project template in Design centre?
+5. Challenges
+6. How to create file/ftp adapter on multi worker nodes?
+7. Do we use the same env credentials for all developers?
+8. Is there a way to track the changes done by a developer on server?
+9. Can for each be used with streaming to process large set of recs?Pg 48 Module 4 for Ans
+10.Can bulk insert be used with on table row? If user with watermark,it can fetch multiple rows at a time which then can be used with bulk API to achieve best performance.
+11. server group and cluster deployment..
+
+
+Notes
+1. XSLT transformer are always better for sorting and may perform better than DWL for smaller data sets but DW is same or better performing than Java with lesser LOC.Reference https://blogs.mulesoft.com/api-integration/strategy/dataweave-performance-demystified/
